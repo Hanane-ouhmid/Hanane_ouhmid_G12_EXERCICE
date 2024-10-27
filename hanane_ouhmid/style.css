@@ -1,0 +1,60 @@
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-color: burlywood;
+
+}
+section {
+    border: 2px solid #000000;
+    background-color: rgb(181, 102, 102);
+    padding: 20px;
+    margin-bottom: 20px;
+    color:black;
+    
+
+
+}
+input[type="text"], input[type="email"] {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #000000;
+}
+input[type="submit"] {
+    width: 100px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: #a71a1a;
+    color: #000000;
+    cursor: pointer;
+    color: #000000;
+}
+textarea {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #ffffff;
+}
+form{
+    text-align: center;
+}
+h2 {
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+}
